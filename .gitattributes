@@ -1,0 +1,5 @@
+# Ensure .jsonl data files keep LF line endings across all platforms
+*.jsonl text eol=lf
+*.json text eol=lf
+*.csv text eol=lf
+*.md text eol=lf
